@@ -1,4 +1,26 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&display=swap');
+.main_div{
+    font-family: 'Prosto One', cursive;
+    background:linear-gradient(red,rgb(1, 255, 1),blue,yellow);
+}
+#headerdiv{
+    color: aqua;
+    background-image: url("mqdefault_6s.webp");
+    height: fit-content;
+}
+p{
+    font-size: medium;
+    font-style: italic;
+    color:yellow;
+}
+#footerlol{
+    position: fixed;
+    text-align: center;
+    bottom: 0px;
+    left: 0px;
+    background-image: url("IMG_2211.JPG") ;
+    width: 100%;
+}
 
 
 
